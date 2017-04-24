@@ -3,7 +3,7 @@
 
    File:        binsem.c
 
-   Written by:  yuval idelman 066372368
+   Written by:  yuval idelman 
 
    Description: this file defines a simple binary semaphores library for
                 user-level threads.
